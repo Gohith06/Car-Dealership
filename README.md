@@ -1,5 +1,5 @@
 # Car-Dealership
-Welcome to the Java JDBC Car Dealership project! This project allows users to buy and sell cars using a MySQL database. It utilizes the MySQL JDBC connector and the rs2xml library for managing database interactions and displaying data.
+Welcome to the Java Swing JDBC Car Dealership project! This project provides a user-friendly interface for users to buy and sell cars using a MySQL database. It utilizes Java Swing for the graphical user interface, the MySQL JDBC connector for database interactions, and the rs2xml library for displaying data.
 
 ## Features
 - Add new cars to the inventory for sale
@@ -11,3 +11,4 @@ Welcome to the Java JDBC Car Dealership project! This project allows users to bu
 - MySQL database server
 - MySQL JDBC connector
 - rs2xml library
+- Java Swing library
